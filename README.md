@@ -1,0 +1,1 @@
+Creación de la primera Kata de IS2 en donde pongo a prueba mis habilidades con los atajos de teclado dentro de la aplicación de IntelliJ. Para ello he realizado una clase Persona en donde le paso como parametros un nombre y un cumpleaños.
